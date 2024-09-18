@@ -4,8 +4,10 @@
 </h2>
 
 <h4>This portfolio website was created for the completion of the midterm in Multimedia System Subject.</h4>
+<br/>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
+  <br/>
    <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
