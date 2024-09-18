@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/midterm_portfolio_website/static/css/main.65aec98d.css",
+    "main.js": "/midterm_portfolio_website/static/js/main.1a653ac8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/midterm_portfolio_website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/midterm_portfolio_website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/piskel.gif": "/midterm_portfolio_website/static/media/piskel.71c25493f2496d8f1218.gif",
+    "static/media/poster.png": "/midterm_portfolio_website/static/media/poster.5b8e2d92ec1f10c56abb.png",
+    "static/media/animation.gif": "/midterm_portfolio_website/static/media/animation.b63b646bb978f7f8474a.gif",
+    "static/media/mylogo.png": "/midterm_portfolio_website/static/media/mylogo.182eb0a8ba8889482144.png",
+    "static/media/ortigueras.pdf": "/midterm_portfolio_website/static/media/ortigueras.35c332de9fb51108e2dd.pdf",
+    "static/media/img_enchance.png": "/midterm_portfolio_website/static/media/img_enchance.b822065aa5c5f52dd787.png",
+    "static/media/prenup.png": "/midterm_portfolio_website/static/media/prenup.bf2e5401d23d5744fc5b.png",
+    "static/media/vector.png": "/midterm_portfolio_website/static/media/vector.0c0bb881f05861f10c91.png",
+    "static/media/logo.png": "/midterm_portfolio_website/static/media/logo.d4e5d20b81b361a92e34.png",
+    "static/media/sketch.png": "/midterm_portfolio_website/static/media/sketch.2e603ae0b65fd1e62dbc.png",
+    "static/media/home-main.svg": "/midterm_portfolio_website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/midterm_portfolio_website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/midterm_portfolio_website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/midterm_portfolio_website/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/midterm_portfolio_website/index.html",
+    "main.65aec98d.css.map": "/midterm_portfolio_website/static/css/main.65aec98d.css.map",
+    "main.1a653ac8.js.map": "/midterm_portfolio_website/static/js/main.1a653ac8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/midterm_portfolio_website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/midterm_portfolio_website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65aec98d.css",
+    "static/js/main.1a653ac8.js"
+  ]
+}
