@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Kenneth Lorenzo</a>
+  <a href="https://github.com/kennethadwa/" target="_blank">Kenneth Lorenzo</a>
 </h2>
 
 <h4>This portfolio website was created for the completion of the midterm in Multimedia System Subject.</h4>
