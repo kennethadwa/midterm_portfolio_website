@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import piskel from "../../Assets/Projects/piskel.gif";
 import prenup from "../../Assets/Projects/prenup.png";
 import poster from "../../Assets/Projects/poster.png";
+import draw from "../../Assets/Projects/draw.png";
 import sketch from "../../Assets/Projects/sketch.png";
 import animation from "../../Assets/Projects/animation.gif";
 import vector from "../../Assets/Projects/vector.png";
@@ -29,8 +30,7 @@ function Projects() {
               isBlog={false}
               title="Vector Graphic"
               description="I created a vector graphic of a potato cartoon using Krita and explored how vectors differ from raster graphics. Unlike rasters, vectors can be scaled without losing quality, which was interesting to learn during the process."
-              ghLink="https://github.com/kennethadwa"
-              demoLink="https://github.com/kennethadwa"
+              demoLink="../Projects/vector.js"
             />
           </Col>
 
@@ -40,8 +40,7 @@ function Projects() {
               isBlog={false}
               title="Image Enhancing"
               description="I enhanced an image using Krita by applying an oil paint effect. I adjusted the brush size to 3 and set the smoothness to 20, transforming the normal image into a vivid, textured artwork that mimics the look of traditional oil painting."
-              ghLink="https://github.com/kennethadwa"
-              demoLink="https://github.com/kennethadwa"
+              demoLink="pro"
             />
           </Col>
 
@@ -51,6 +50,17 @@ function Projects() {
               isBlog={false}
               title="Movie Poster"
               description="I created my own version of the Inside Out movie poster for our activity, where we had to alter the original poster of a film. I redesigned it with a fresh perspective, using new elements and colors to bring a unique twist."
+              ghLink="https://github.com/kennethadwa"
+              demoLink="https://github.com/kennethadwa"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={draw}
+              isBlog={false}
+              title="Drawing inside NU Lipa"
+              description="I drew a sketch of my school, NU Lipa, for an activity using a ballpen and colors on a sketchpad. I added details and colors to give it a fresh look, creating a unique and personal version of the school."
               ghLink="https://github.com/kennethadwa"
               demoLink="https://github.com/kennethadwa"
             />
