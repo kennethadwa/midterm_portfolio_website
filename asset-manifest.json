@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/midterm_portfolio_website/static/css/main.65aec98d.css",
-    "main.js": "/midterm_portfolio_website/static/js/main.e22f61d0.js",
+    "main.js": "/midterm_portfolio_website/static/js/main.d94b6e37.js",
     "static/js/415.5528b06b.chunk.js": "/midterm_portfolio_website/static/js/415.5528b06b.chunk.js",
     "static/js/787.c8d709ad.chunk.js": "/midterm_portfolio_website/static/js/787.c8d709ad.chunk.js",
     "static/media/piskel.gif": "/midterm_portfolio_website/static/media/piskel.71c25493f2496d8f1218.gif",
@@ -9,24 +9,28 @@
     "static/media/animation.gif": "/midterm_portfolio_website/static/media/animation.b63b646bb978f7f8474a.gif",
     "static/media/mylogo.png": "/midterm_portfolio_website/static/media/mylogo.182eb0a8ba8889482144.png",
     "static/media/draw.png": "/midterm_portfolio_website/static/media/draw.0d9ec563b6d2850019f6.png",
+    "static/media/edge.png": "/midterm_portfolio_website/static/media/edge.5139a5561bc2ce97ee1f.png",
     "static/media/ortigueras.pdf": "/midterm_portfolio_website/static/media/ortigueras.35c332de9fb51108e2dd.pdf",
     "static/media/img_enchance.png": "/midterm_portfolio_website/static/media/img_enchance.b822065aa5c5f52dd787.png",
+    "static/media/BLUr.png": "/midterm_portfolio_website/static/media/BLUr.a133f6364f7f7b00f7d6.png",
+    "static/media/pixelized.png": "/midterm_portfolio_website/static/media/pixelized.7eb3299cb48ebc4b96ca.png",
     "static/media/prenup.png": "/midterm_portfolio_website/static/media/prenup.bf2e5401d23d5744fc5b.png",
     "static/media/vector.png": "/midterm_portfolio_website/static/media/vector.0c0bb881f05861f10c91.png",
     "static/media/logo.png": "/midterm_portfolio_website/static/media/logo.d4e5d20b81b361a92e34.png",
     "static/media/sketch.png": "/midterm_portfolio_website/static/media/sketch.2e603ae0b65fd1e62dbc.png",
     "static/media/home-main.svg": "/midterm_portfolio_website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/midterm_portfolio_website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/raster.png": "/midterm_portfolio_website/static/media/raster.be4bd53b5d3f972476c1.png",
     "static/media/home-bg.jpg": "/midterm_portfolio_website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/midterm_portfolio_website/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/midterm_portfolio_website/index.html",
     "main.65aec98d.css.map": "/midterm_portfolio_website/static/css/main.65aec98d.css.map",
-    "main.e22f61d0.js.map": "/midterm_portfolio_website/static/js/main.e22f61d0.js.map",
+    "main.d94b6e37.js.map": "/midterm_portfolio_website/static/js/main.d94b6e37.js.map",
     "415.5528b06b.chunk.js.map": "/midterm_portfolio_website/static/js/415.5528b06b.chunk.js.map",
     "787.c8d709ad.chunk.js.map": "/midterm_portfolio_website/static/js/787.c8d709ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65aec98d.css",
-    "static/js/main.e22f61d0.js"
+    "static/js/main.d94b6e37.js"
   ]
 }
