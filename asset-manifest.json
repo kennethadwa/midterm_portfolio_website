@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/midterm_portfolio_website/static/css/main.65aec98d.css",
-    "main.js": "/midterm_portfolio_website/static/js/main.5d10f606.js",
+    "main.js": "/midterm_portfolio_website/static/js/main.e22f61d0.js",
     "static/js/415.5528b06b.chunk.js": "/midterm_portfolio_website/static/js/415.5528b06b.chunk.js",
     "static/js/787.c8d709ad.chunk.js": "/midterm_portfolio_website/static/js/787.c8d709ad.chunk.js",
     "static/media/piskel.gif": "/midterm_portfolio_website/static/media/piskel.71c25493f2496d8f1218.gif",
     "static/media/poster.png": "/midterm_portfolio_website/static/media/poster.5b8e2d92ec1f10c56abb.png",
     "static/media/animation.gif": "/midterm_portfolio_website/static/media/animation.b63b646bb978f7f8474a.gif",
     "static/media/mylogo.png": "/midterm_portfolio_website/static/media/mylogo.182eb0a8ba8889482144.png",
+    "static/media/draw.png": "/midterm_portfolio_website/static/media/draw.0d9ec563b6d2850019f6.png",
     "static/media/ortigueras.pdf": "/midterm_portfolio_website/static/media/ortigueras.35c332de9fb51108e2dd.pdf",
     "static/media/img_enchance.png": "/midterm_portfolio_website/static/media/img_enchance.b822065aa5c5f52dd787.png",
     "static/media/prenup.png": "/midterm_portfolio_website/static/media/prenup.bf2e5401d23d5744fc5b.png",
@@ -20,12 +21,12 @@
     "static/media/pre.svg": "/midterm_portfolio_website/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/midterm_portfolio_website/index.html",
     "main.65aec98d.css.map": "/midterm_portfolio_website/static/css/main.65aec98d.css.map",
-    "main.5d10f606.js.map": "/midterm_portfolio_website/static/js/main.5d10f606.js.map",
+    "main.e22f61d0.js.map": "/midterm_portfolio_website/static/js/main.e22f61d0.js.map",
     "415.5528b06b.chunk.js.map": "/midterm_portfolio_website/static/js/415.5528b06b.chunk.js.map",
     "787.c8d709ad.chunk.js.map": "/midterm_portfolio_website/static/js/787.c8d709ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65aec98d.css",
-    "static/js/main.5d10f606.js"
+    "static/js/main.e22f61d0.js"
   ]
 }
